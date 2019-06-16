@@ -1,8 +1,8 @@
-baseurl = "https://example.com/"
+baseurl = "https://argyouth.com/"
 title = "The Argumentative Youth"
 theme = "arabica-master"
 languageCode = "en-us"
-copyright = "Pritam"
+copyright = ""
 disqusShortname = "XXX"
 googleAnalytics = "XXX"
 
@@ -17,10 +17,10 @@ googleAnalytics = "XXX"
     useSessionStorage = false
 
 [Author]
-    name = "Pritam"
+    name = ""
     profile = ""
-    email = "pritamghosh31390@gmail.com"
-    nick = "Murphy"
+    email = ""
+    nick = ""
 
 [Taxonomies]
     tag = "tags"
@@ -29,18 +29,18 @@ googleAnalytics = "XXX"
     intro = true
     headline = "The Argumentative Youth"
     description = ""
-    github = "https://github.com/murphysalvado"
+    github = "https://github.com/argyouth"
     gitlab = ""
     linkedin = ""
     gplus = ""
-    twitter = "https://twitter.com/murphysalvado"
+    twitter = ""
     stackoverflow = ""
-    microblog = "https://micro.blog/murphysalvado"
+    microblog = ""
     feedurl = ""
     webmentionEndpoint = ""
     pingbackEndpoint = ""
     micropubEndpoint = ""
-    email = "pritamghosh31390@gmail.com"
+    email = ""
     opengraph = true
     shareTwitter = true
     shareFacebook = true
