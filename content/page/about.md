@@ -5,6 +5,6 @@ author = "My Name"
 description = "Things about me."
 +++
 
-Doodler, Scribbler, Photographer, Blogger, Philonoist & Spy, In The Reverse Order.
+Rationally cynical and in pursuit of civility, I am an argumentative Indian who rants about everything under the sun.
 
-Rationally Cynical & Candid, in Pursuit of Civility
+My real name? You don't need to know that!
