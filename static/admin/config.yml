@@ -6,11 +6,11 @@ media_folder: "static/media"
 public_folder: "/media"
 
 collections:
-  - name: "posts"
-    label: "Posts"
+  - name: "post"
+    label: "Post"
     folder: "content/post"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}/{{month}}/{{day}}/{{slug}}"
     fields:
       - {label: "Template", name: "template", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
