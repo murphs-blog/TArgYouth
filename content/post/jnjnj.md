@@ -9,4 +9,4 @@ category: njjnjnjn
 tags:
   - hbhbhb
 ---
-!\[Gutul](/images/The Great Indian Paan.jpg)
+!\[Gutul](https://raw.githubusercontent.com/murphs-blog/TArgYouth/master/images/The%20Great%20Indian%20Paan.jpg)
