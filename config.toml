@@ -1,5 +1,5 @@
 baseurl = "https://argyouth.com/"
-title = "The Argumentative Youth"
+title = ""
 theme = "arabica-master"
 languageCode = "en-us"
 copyright = ""
@@ -27,7 +27,7 @@ googleAnalytics = "XXX"
 
 [Params]
     intro = true
-    headline = "The Argumentative Youth"
+    headline = ""
     description = ""
     github = "https://github.com/argyouth"
     gitlab = ""
